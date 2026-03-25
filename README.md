@@ -69,9 +69,3 @@ npm run dev
 * Criação de APIs com Spring Boot
 * Integração entre front-end e back-end
 * Manipulação de dados com PostgreSQL
-
----
-
-## 👩‍💻 Autora
-
-Desenvolvido por Luysa Souza 💙
