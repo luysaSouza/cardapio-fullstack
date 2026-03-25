@@ -1,6 +1,6 @@
 # 🍔 Cardápio Fullstack
 
-Aplicação fullstack para gerenciamento de itens de um cardápio, permitindo cadastrar, visualizar, editar e remover produtos.
+Aplicação fullstack para gerenciamento de itens de um cardápio, permitindo cadastrar e visualizar produtos
 
 ---
 
